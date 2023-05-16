@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">E-BizCardWithJetpackCompose</string>
+
+    <string name="e_biz_card_holder_name">Mr.Ahirrao</string>
+    <string name="e_biz_card_holder_designation">Software Engineer</string>
+    <string name="e_biz_card_holder_twitter_id">@Mr_Ahirrao</string>
+    <string name="btn_portfolio">Portfolio</string>
+</resources>
